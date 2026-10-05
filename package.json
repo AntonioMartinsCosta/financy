@@ -1,0 +1,15 @@
+{
+  "name": "financy",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"pnpm --dir backend dev\" \"pnpm --dir frontend dev\"",
+    "setup": "node scripts/setup.mjs && pnpm --dir backend db:generate && pnpm --dir backend db:deploy",
+    "build": "pnpm --dir backend build && pnpm --dir frontend build",
+    "test": "pnpm --dir backend test",
+    "format": "prettier --write frontend/src backend/src backend/test scripts frontend/vite.config.ts package.json frontend/package.json backend/package.json frontend/tsconfig.json backend/tsconfig.json pnpm-workspace.yaml README.md"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "prettier": "3.6.2"
+  }
+}

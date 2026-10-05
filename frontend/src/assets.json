@@ -1,0 +1,101 @@
+{
+  "login": {
+    "imgLogo": "/assets/06e465ad-6f14-4eaf-ad52-f3136ea2496c.svg",
+    "imgIconMail": "/assets/01440969-82c6-4e17-af88-772d823dca7d.svg",
+    "imgIconLock": "/assets/df7c7ce1-7df0-4246-b144-145f66c13f8f.svg",
+    "imgIconEyeClosed": "/assets/163add62-5ae8-46a7-85b5-e1d253bd7acb.svg",
+    "imgIconUserRoundPlus": "/assets/9c63253e-81b3-4354-96f8-e7c508c0daba.svg"
+  },
+  "register": {
+    "imgLogo": "/assets/b812526a-bbcf-486e-b285-43403b0abb52.svg",
+    "imgIconUserRound": "/assets/87bd880b-ebaf-4e71-8840-ab479d81de86.svg",
+    "imgIconMail": "/assets/653dc346-3c99-41a4-b99c-af5fdc6d7240.svg",
+    "imgIconLock": "/assets/07b882d0-3221-48fa-8b87-25b5c09b27f6.svg",
+    "imgIconEyeClosed": "/assets/85aa6399-4f62-46c3-85c5-bae807503b66.svg",
+    "imgIconLogIn": "/assets/6561447b-b387-412b-9975-e40958f46892.svg"
+  },
+  "dashboard": {
+    "imgLogo": "/assets/6e671124-c4cc-458a-952a-d3be5190c1cb.svg",
+    "imgIconWallet": "/assets/cb47d857-2b66-4754-a552-42fa83f6dd76.svg",
+    "imgIconCircleArrowUp": "/assets/6e864dcf-e494-40ef-90ad-8753489c6b4e.svg",
+    "imgIconCircleArrowDown": "/assets/e51c62fa-c493-4931-9c05-170955476281.svg",
+    "imgIconChevronRight": "/assets/d151e961-3976-4395-98a0-2963a69902c8.svg",
+    "imgIconBriefcaseBusiness": "/assets/83d66a3e-68aa-4dfd-b0b7-56af26bea957.svg",
+    "imgIconCircleArrowUp1": "/assets/887cdefa-0f0f-4a78-973a-38d8154a92e6.svg",
+    "imgIconUtensils": "/assets/b2b4a3a6-3c72-4fb8-a4dc-23e1f6c9e01d.svg",
+    "imgIconCircleArrowDown1": "/assets/0beb127d-4e76-4311-be8a-d79c398f33ad.svg",
+    "imgIconCarFront": "/assets/9c977cf9-fe7f-4cce-bac2-517e1168587e.svg",
+    "imgIconShoppingCart": "/assets/41fdf723-0ee7-4d45-83ec-7f5f00ac657f.svg",
+    "imgIconPiggyBank": "/assets/2ff8be93-dfb7-4d5c-9e4c-cbddf6a889aa.svg",
+    "imgIconPlus": "/assets/6bfd92b6-33f2-4d11-a1aa-243f9f7794ad.svg"
+  },
+  "transactions": {
+    "imgIconCircleArrowUp": "/assets/aee1a553-79ff-4979-8c78-2edaf6d45f2a.svg",
+    "imgIconCircleArrowDown": "/assets/66376441-c0a3-44e6-815b-6da040f12b77.svg",
+    "imgLogo": "/assets/172f2912-9b9f-4b67-b844-53d0f77d0afd.svg",
+    "imgIconPlus": "/assets/838df939-e815-43a8-a5e5-b7ac0c2d0226.svg",
+    "imgIconSearch": "/assets/79e7bd15-3b3c-43c5-b013-47e0815b9b31.svg",
+    "imgIconChevronDown": "/assets/2a90eac6-115b-49c2-84de-d260dcf3da0d.svg",
+    "imgIconUtensils": "/assets/7e4ffe7e-e601-4bc3-b080-98cccf4c8976.svg",
+    "imgIconTrash": "/assets/4dd82709-f9ca-436c-8ecb-71a7af409d81.svg",
+    "imgIconSquarePen": "/assets/a04ed851-d670-4245-928f-2984e9895761.svg",
+    "imgIconCarFront": "/assets/7071919e-b97a-4148-aefc-25ad7f25fa34.svg",
+    "imgIconShoppingCart": "/assets/a7cb3084-a22d-472c-9235-d1d1131c1aae.svg",
+    "imgIconPiggyBank": "/assets/1bb0954a-332b-489b-92e8-ea4fb7349e3e.svg",
+    "imgIconToolCase": "/assets/c0053ec0-5e57-4e78-8fc6-c3492ad572af.svg",
+    "imgIconBriefcaseBusiness": "/assets/beb4d081-dde6-411c-a023-06bd48d789ba.svg",
+    "imgIconTicket": "/assets/203cc9bc-533d-481a-a3bc-b2cd7964abdc.svg",
+    "imgIconChevronLeft": "/assets/35b8b334-195f-41ec-a9b5-95cacaad60a3.svg",
+    "imgIconChevronRight": "/assets/c254e55d-86df-4d1a-84e2-d21ff929ca6d.svg"
+  },
+  "categories": {
+    "imgLogo": "/assets/f6e4f2f3-563e-4447-a222-5f6658bcc49a.svg",
+    "imgIconPlus": "/assets/de8d1880-d619-4270-86ee-9ff546eb8e8e.svg",
+    "imgIconTag": "/assets/34ac27d6-2f83-4dc1-a5ef-379e87ed416d.svg",
+    "imgIconArrowUpDown": "/assets/31d359a1-13c7-48c5-ae47-a95dd9f64e2e.svg",
+    "imgIconUtensils": "/assets/aedf866e-2583-4aea-9461-816218b4cb8d.svg",
+    "imgIconUtensils1": "/assets/e63d4263-2b3c-46be-b904-0ef5f0506085.svg",
+    "imgIconTrash": "/assets/5b22049b-6784-40fd-88db-ac7182c96843.svg",
+    "imgIconSquarePen": "/assets/90737fae-841d-4b76-83ce-1411544e1518.svg",
+    "imgIconCarFront": "/assets/0973d232-51b8-45f6-b851-61bbaaf736fa.svg",
+    "imgIconToolCase": "/assets/367afe39-41b3-4c5a-816c-93e700f5f9e4.svg",
+    "imgIconTicket": "/assets/cc6610ec-9757-4a60-9bc9-99c75a4d79be.svg",
+    "imgIconPiggyBank": "/assets/23bac1c4-6570-4012-b3cb-c7efc008597f.svg",
+    "imgIconShoppingCart": "/assets/c5c9113c-5411-4650-8fd0-3d88336f376d.svg",
+    "imgIconBriefcaseBusiness": "/assets/22a4003c-5216-4d5c-93c9-71f6cde39a7a.svg",
+    "imgIconTrash1": "/assets/9ab60e7a-da75-4f6e-8c24-37aaa4d8df8d.svg",
+    "imgIconHeartPulse": "/assets/fb71fbfe-368a-4007-ac3e-04bd00af6145.svg"
+  },
+  "profile": {
+    "imgLogo": "/assets/ea1dd26d-9dae-4430-9e4b-c5e07660a1f7.svg",
+    "imgIconUserRound": "/assets/566804f0-8922-4b45-a014-c39373c83894.svg",
+    "imgIconMail": "/assets/f17536b5-843a-4084-8bc1-62fa4861679a.svg",
+    "imgIconLogOut": "/assets/0f03610e-d1ed-49b4-b6d2-5a6278551086.svg"
+  },
+  "transaction-modal": {
+    "imgIconX": "/assets/c8d65ba6-63da-46dc-975f-5d69deed5fbb.svg",
+    "imgIconCircleArrowDown": "/assets/6a048813-b9c7-4127-a458-ae03c346ef9b.svg",
+    "imgIconCircleArrowUp": "/assets/7c3cf323-89f4-4fe3-9347-e46c3f1ab7cc.svg",
+    "imgCurrency": "/assets/b935a3b9-1200-429b-a64e-a02519868f95.svg",
+    "imgIconChevronDown": "/assets/0aa7ef75-0c6b-43f1-ad49-482f878cdb9f.svg"
+  },
+  "category-modal": {
+    "imgIconX": "/assets/9a636208-3a76-49a5-af1c-e475d51dfc84.svg",
+    "imgIconBriefcaseBusiness": "/assets/485d85d4-8acf-49a8-bc4a-60626b1a843d.svg",
+    "imgIconCarFront": "/assets/fe1b0bee-b9e6-4760-b9ae-53588fbb8586.svg",
+    "imgIconHeartPulse": "/assets/f9564a60-2391-47a8-a6a2-1bb1311b1d2e.svg",
+    "imgIconPiggyBank": "/assets/a4b5802f-a221-4e21-bf77-6fb1cd770caa.svg",
+    "imgIconShoppingCart": "/assets/c7bdb274-928e-49d1-923d-b7f0f44dd6eb.svg",
+    "imgIconTicket": "/assets/9e9be44d-a7fa-47e3-8dd4-d6a0860b8684.svg",
+    "imgIconToolCase": "/assets/cb5e9ce6-007d-49c9-81b8-7162ce4049dc.svg",
+    "imgIconUtensils": "/assets/4ff4e33d-ff74-4dfc-9830-f9a4ca018960.svg",
+    "imgIconPawPrint": "/assets/aa2fee6e-1946-4fe3-8401-c1d68609588f.svg",
+    "imgIconHouse": "/assets/ce39d452-ffbf-4520-be3b-115fae2d0019.svg",
+    "imgIconGift": "/assets/6c184f3d-0b0f-4379-ab17-d11f7214c21b.svg",
+    "imgIconDumbbell": "/assets/46117f12-817c-4980-971e-76c4bf93c53b.svg",
+    "imgIconBookOpen": "/assets/ca3abdd4-6d32-4db1-bcd7-cae7f9cc5f62.svg",
+    "imgIconBaggageClaim": "/assets/0676755e-1cc1-4ee0-8ad9-5140d821d3bb.svg",
+    "imgIconMailbox": "/assets/8c7a5b44-c5d6-4789-8de6-433aeba0193f.svg",
+    "imgIconReceiptText": "/assets/7aae2a24-7bd5-4ef9-ad7f-32b146bb314b.svg"
+  }
+}

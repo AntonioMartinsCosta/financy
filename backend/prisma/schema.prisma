@@ -1,0 +1,39 @@
+generator client {
+  provider = "prisma-client-js"
+}
+datasource db {
+  provider = "sqlite"
+  url = env("DATABASE_URL")
+}
+model User {
+  id String @id @default(cuid())
+  name String
+  email String @unique
+  passwordHash String
+  categories Category[]
+  transactions Transaction[]
+}
+model Category {
+  id String @id @default(cuid())
+  name String
+  description String @default("")
+  color String
+  icon String
+  userId String
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  transactions Transaction[]
+  @@unique([userId, name])
+  @@index([userId])
+}
+model Transaction {
+  id String @id @default(cuid())
+  description String
+  amount Int
+  date String
+  type String
+  userId String
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+  categoryId String?
+  category Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  @@index([userId, date])
+}
