@@ -1,6 +1,6 @@
 # Financy
 
-Aplicação de organização de finanças implementada a partir do [design do Figma](https://www.figma.com/design/tNAnXDq1l1b99HWyjkwlYL/Financy?node-id=3-376).
+Aplicação de organização de finanças.
 
 ## Executar localmente
 
